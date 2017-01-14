@@ -1,0 +1,7 @@
+1. Írjon C programot, amely két megadott számról eldönti, hogy melyik a nagyobb (szelekciós
+utasítás). Vizsgálja az egyenlőségüket is!
+2. Készítsen C programot, amely kiszámítja két pozitív szám számtani és mértani közepét.
+Egész és lebegőpontos számokkal is teszteljék a kódot.
+3. Írjon C programot egy beolvasott N érték faktoriálisának kiszámítására (4. feladat alapján).
+Figyelem! 8! = 40320, ami már nem fér el egy int típusú változóban. Korlátozza N értékét 0
+és 10 közé, és válasszon megfelelő adattípust a faktoriális tárolásához!
