@@ -1,8 +1,5 @@
-1. Írjon C programot, amely bekéri egy téglalap 2 oldalának hosszát és kiszámítja a téglalap
-területét és kerületét.
+1. Írjon C programot, amely bekéri egy téglalap 2 oldalának hosszát és kiszámítja a téglalap területét és kerületét.
 2. Írjon C programot, amely segédváltozó használatával felcserél két beolvasott értéket.
-3. Írjon C programot, amely két megadott számról eldönti a feltételes operátor használatával, hogy
-melyik a nagyobb.
-4. Készítsen C programot, amely bekéri egy téglatest három oldalának hosszát és kiszámítja annak
-felszínét (A = 2 * (a*b + a*c + b*c)) és térfogatát (V = a*b*c). A felszín számításánál ügyeljen
-a helyes zárójelezésre (a műveletek precedenciájára)!
+3. Írjon C programot, amely két megadott számról eldönti a feltételes operátor használatával, hogy melyik a nagyobb.
+4. Készítsen C programot, amely bekéri egy téglatest három oldalának hosszát és kiszámítja annak felszínét és térfogatát. 
+   A felszín számításánál ügyeljen a helyes zárójelezésre!
