@@ -1,0 +1,7 @@
+1. Készítsen programot, amely nyilvántartja az euró havi árfolyamait egy éven keresztül. Készítsen olyan kiírást, amelyben az elsõ adatot követõen a többi listaelem a megelõzõhöz képest számított relatív érték (pl: 301.1, 2.3, -0.4, 0.6, -0.2, stb.). 
+   Monoton nõtt-e az árfolyam az év során?
+2. Az egyetemi hallgatóknak félévente 6 vizsgájuk van. Félév végén az elért tanulmányi átlag alapján ki szeretnénk számolni a hallgató ösztöndíját a következõ félévre: 3,5 alatt 0 Ft/hó, 3,6-4,0 között 5eFt/hó, 4,1-4,5 között 10eFt/hó és 4,6-5,0 között 15eFt/hó. Írjon C programot, amely beolvassa egy hallgató vizsgajegyeit és eltárolja, kiszámítja a tanulmányi átlagot és kiírja az ösztöndíj havi összegét.
+3. Írjon C programot az ötöslottó számainak véletlenszerû elõállítására. Ügyeljen, hogy ne ismétlõdjenek a számok!
+4. Töltsön fel 1 és 100 közé esõ véletlenszámokkal egy 10 elemû tömböt.
+   a) Rendezze a tömb elemeit növekvõ sorrendbe a következõ eljárás szerint: n elembõl kiválasztja a legkisebbet, ez lesz a rendezett sorozat elsõ eleme. Utána n-1 elembõl választja ki a legkisebbet, ez lesz a rendezett sorozat második eleme, és így tovább.
+   b) A rendezett sorozaton implementálja a logaritmikus (intervallum felezõ) keresés algoritmusát.
