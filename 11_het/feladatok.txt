@@ -1,0 +1,3 @@
+1. Hozzon létre egy autó adatait tárolni képes struktúrát, majd egy 10 autó adatait tároló dinamikusan lefoglalt tömböt. Definiálja a struktúrán elvégezhető alábbi műveleteket:
+   beolvasás, kiírás, 15%-os árleszállítás, a legdrágább/legolcsóbb autó megkeresése, megadott árhatárok közé eső autók kiírása (pl.: 2 000 000 ft és 3 000 000 ft).
+2. Az előző feladatot módosítsa úgy, hogy az autó struktúrán belül az árat összeg és devizanem formájában tudjuk megadni (beágyazott struktúra) (pl.: 20000 USD, 2000000 HUF).
