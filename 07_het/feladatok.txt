@@ -1,0 +1,4 @@
+1. Adott egy program, amely beolvassa, majd kiírja az euro havi árfolyamait 1 éven keresztül.
+   Készítsen hozzá lineáris keresést megvalósító függvényt!
+2. A 6. gyakorlaton kiadott házi feladatok implementációját írja át strukturált programra, azaz a
+   logikailag elkülönülő funkciókat külön függvényben valósítsa meg.
