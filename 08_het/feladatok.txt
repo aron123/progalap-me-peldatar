@@ -1,0 +1,9 @@
+1. Írjon C programot, ami meghatározza egy megadott szám számjegyeinek az összegét.
+2. Az 5. gyakorlat rajzoló algoritmusait valósítsa meg függvényként.
+3. Készítse el a ‘Gondoltam egy számot játék’ C programját. Algoritmusa:
+    1. Állítson elő egy véletlenszámot és tárolja el. Ez lesz a gondolt szám.
+    2. A felhasználótól kérjen be a program egy tippet.
+    3. A megadott tippet hasonlítsa össze a gondolt számmal. Írja ki, hogy eltalálta, kisebb, vagy nagyobb számra gondoltunk-e.
+    4. Ha nem találta el, vissza a 2. pontra. Ha eltalálta, kérdezze meg h. akar-e még játszani.
+    5. Ha igen, vissza az 1. pontra. Ha nem, akkor vége a programnak.
+   Ezt a programot dokumentálja. A program elején: készítő neve, email címe, készítés dátuma, utolsó módosítás dátuma, feladat rövid leírása.
