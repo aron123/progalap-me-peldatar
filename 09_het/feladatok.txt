@@ -1,3 +1,3 @@
 1. Egy beolvasott karaktert lineáris kereső eljárással keressen meg az angol ábécében (az ábécé betűit tárolja inicializált karakter tömbben).
-2. Implementálja az 5. és 6. előadás sztringkezelő algoritmusait saját függvényként. Minden esetben próbálja ki a megfelelő standard függvényhívást is:
+2. Implementálja az alapvető standard sztringkezelő függvényeket. Minden esetben próbálja ki a megfelelő standard függvényhívást is:
    sztring hosszának meghatározása, sztring másolás, sztring hozzáfűzés, karakter keresése sztringben, rész-sztring keresés.

@@ -19,7 +19,7 @@ Idő | Megszerzett tudás
 12. hét | Rendezések, kiválogatás, szétválogatás algoritmusai
 13. hét | C program paraméterei, visszatérési értéke, C fordító működése
 
-Az első két héten csak algoritmizálási feladatok voltak, az utolsó kettőn pedig nem volt gyakorlat.
+Az első két héten csak algoritmizálási feladatok voltak, az utolsó kettőn pedig nem volt gyakorlat, így ezekhez nem tartoznak C nyelvi programozási feladatok.
 
 ## Munkakörnyezet
 A megoldások Windows 10 operációs rendszeren, [Code::Blocks](http://www.codeblocks.org/) fejlesztői környezetben készültek és [GNU GCC](https://gcc.gnu.org/) fordító segítségével lettek tesztelve, ettől függetlenül arra törekedtem, hogy univerzálisak legyenek.
