@@ -4,3 +4,4 @@
    c) Készítse el azt a függvényt, amely megállapítja egy megadott dátumról, hogy helyes-e. Pl. 2016.01.32. hibás dátum.
 3. Geometriai programban egy négyzetet az oldalhosszúságával és a bal felső csúcsának koordinátáival adunk meg. Határozza meg a négyzet középpontjának (az átló felezőpontjának) koordinátáit.
 4. Geometriai programban egy pont és egy kör egymáshoz viszonyított helyzetét vizsgáljuk. Állapítsa meg, hogy a megadott pont rajta van-e a megadott körvonalon, vagy azon belül, vagy azon kívül helyezkedik-e el. A pontot a koordinátáival adja meg, a kört pedig a középpont koordinátáival és a sugarával.
+5. Írjon C programot a másodfokú egyismeretlenes egyenletek megoldásához!

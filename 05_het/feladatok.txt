@@ -1,0 +1,6 @@
+1. Az E betű tükrözésével rajzoljon ki 3-ast a képernyőre.
+2. Rajzoljon # karakterekből adott magasságú és szélességű paralelogrammát.
+3. Rajzoljon ki egy megadott magasságú, egyenlőszárú háromszöget. Módosítsa az előző algoritmust: csak "háztetőt", illetve csak a háromszög keretét rajzolja ki.
+4. Csúcsára állított egyenlőszárú, megadott magasságú háromszög kirajzolása.
+5. Keresse meg és irassa ki az első N db prímszámot. N értékének beolvasása ellenőrzéssel történjen. Először készítsen folyamatábrát és ezt kódolja!
+6. Keresse meg 1 és 100 között az összes ikerprím számpárt (olyan prímek, melyek különbsége 2). Először készítsen folyamatábrát és ezt kódolja!

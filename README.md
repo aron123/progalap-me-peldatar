@@ -12,8 +12,8 @@ Idő | Megszerzett tudás
 5. hét | Tömbök, sztringek, mutatók
 6. hét | Függvények, programtervezési alapelvek
 7. hét | Struktúrák
-8. hét | Tárolási osztályok, több modulos program <br/>Féléves feladat kiadása
-9. hét | Elmaradt előadás, gyakorlaton gyakorlás a ZH-ra
+8. hét | Tárolási osztályok, több modulos program
+9. hét | Elmaradt előadás, gyakorlaton ZH-ra készülés
 10. hét | Rekurzió
 11. hét | Kétdimenziós tömbök
 12. hét | Rendezések, kiválogatás, szétválogatás algoritmusai
@@ -26,4 +26,4 @@ A megoldások Windows 10 operációs rendszeren, [Code::Blocks](http://www.codeb
 
 ## Megjegyzés
 Bizonyára léteznek hatékonyabb megoldások a feladatokra, de minden megoldásnál az előadásokon elhangzottak alapján aktuálisan rendelkezésemre álló tudásanyagból gazdálkodtam.
-Minden észrevételt, módosítási javaslatot szívesen fogadok.
+Minden észrevételt, módosítási javaslatot örömmel fogadok.
